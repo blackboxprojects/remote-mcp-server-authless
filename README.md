@@ -7,7 +7,7 @@ This example allows you to deploy a remote MCP server that doesn't require authe
 [![Deploy to Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/ai/tree/main/demos/remote-mcp-authless)
 
 ## Custom: 
-![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=ttps://github.com/blackboxprojects/remote-mcp-server-authless)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=ttps://github.com/blackboxprojects/remote-mcp-server-authless)
 
 Alternatively, you can use the command line below to get the remote MCP Server created on your local machine:
 ```bash
